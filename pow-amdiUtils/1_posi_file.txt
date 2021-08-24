@@ -1,0 +1,38 @@
+2021-07-15 00:08:39 INFO run_test - <module>: POSI: number 0
+2021-07-15 00:08:42 INFO MA1010-CDposi-01 - run_assay: POSI: LV1-7+off: 1925 3269 0825 2380 2360 2191 1004
+2021-07-15 00:10:29 INFO E20 - laser_sweep: POSI: position b4 lv#1 C: $B 1919
+2021-07-15 00:10:31 INFO E20 - psd: POSI: lv1 was detected @ positon: $P 1915
+2021-07-15 00:10:32 INFO E20 - laser_sweep: POSI: position af lv#1 C: $A 1915
+2021-07-15 00:10:44 INFO E20 - laser_sweep: POSI: position b4 lv#1 C: $B 3922
+2021-07-15 00:10:46 INFO E20 - psd: POSI: lv1 was detected @ positon: $P 3921
+2021-07-15 00:10:47 INFO E20 - laser_sweep: POSI: position af lv#1 C: $A 3920
+2021-07-15 00:10:58 INFO E20 - laser_sweep: POSI: position b4 lv#2 C: $B 3270
+2021-07-15 00:11:00 INFO E20 - psd: POSI: lv1 NOT detected @ positon: $P 3273
+2021-07-15 00:11:01 INFO E20 - laser_sweep: POSI: position af lv#2 C: $A 3275
+2021-07-15 00:11:11 INFO E20 - laser_sweep: POSI: position b4 lv#2 C: $B 1268
+2021-07-15 00:11:12 INFO E20 - psd: POSI: lv1 was detected @ positon: $P 1267
+2021-07-15 00:11:13 INFO E20 - laser_sweep: POSI: position af lv#2 C: $A 1267
+2021-07-15 00:12:23 INFO E20 - laser_sweep: POSI: position b4 lv#3 C: $B 822
+2021-07-15 00:12:25 INFO E20 - psd: POSI: lv1 was detected @ positon: $P 821
+2021-07-15 00:12:26 INFO E20 - laser_sweep: POSI: position af lv#3 C: $A 821
+2021-07-15 00:12:39 INFO E20 - laser_sweep: POSI: position b4 lv#3 C: $B 2828
+2021-07-15 00:12:41 INFO E20 - psd: POSI: lv1 NOT detected @ positon: $P 2829
+2021-07-15 00:12:42 INFO E20 - laser_sweep: POSI: position af lv#3 C: $A 2830
+2021-07-15 00:13:51 INFO E20 - laser_sweep: POSI: position b4 lv#4 C: $B 2376
+2021-07-15 00:13:53 INFO E20 - psd: POSI: lv1 was detected @ positon: $P 2372
+2021-07-15 00:13:54 INFO E20 - laser_sweep: POSI: position af lv#4 C: $A 2372
+2021-07-15 00:14:05 INFO E20 - laser_sweep: POSI: position b4 lv#4 C: $B 379
+2021-07-15 00:14:07 INFO E20 - psd: POSI: lv1 NOT detected @ positon: $P 378
+2021-07-15 00:14:08 INFO E20 - laser_sweep: POSI: position af lv#4 C: $A 378
+2021-07-15 00:15:16 INFO E20 - laser2_sweep: POSI: position b4 lv#5 C: $B 2354
+2021-07-15 00:15:18 INFO E20 - psd2: POSI: lv2 was detected @ positon: $P 2348
+2021-07-15 00:15:18 INFO E20 - laser2_sweep: POSI: position af lv#5 C: $A 2347
+2021-07-15 00:15:30 INFO E20 - laser2_sweep: POSI: position b4 lv#5 C: $B 357
+2021-07-15 00:15:32 INFO E20 - psd2: POSI: lv2 was detected @ positon: $P 356
+2021-07-15 00:15:32 INFO E20 - laser2_sweep: POSI: position af lv#5 C: $A 356
+2021-07-15 00:15:45 INFO E20 - laser_sweep: POSI: position b4 lv#6 C: $B 2191
+2021-07-15 00:15:47 INFO E20 - psd: POSI: lv1 was detected @ positon: $P 2190
+2021-07-15 00:15:47 INFO E20 - laser_sweep: POSI: position af lv#6 C: $A 2190
+2021-07-15 00:15:57 INFO E20 - laser_sweep: POSI: position b4 lv#6 C: $B 194
+2021-07-15 00:15:59 INFO E20 - psd: POSI: lv1 was detected @ positon: $P 194
+2021-07-15 00:16:00 INFO E20 - laser_sweep: POSI: position af lv#6 C: $A 194
